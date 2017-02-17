@@ -1,0 +1,33 @@
+/*CA9DA3*/
+
+
+/*CFC39A*/
+
+
+/*A7AB94*/
+
+
+/*C5969F*/
+
+
+/*A2796A*/
+
+body {
+    background-color: #CA9DA3;
+}
+
+footer {
+    background-color: #A2796A;
+    color: #C5969F;
+}
+
+ul {
+    float: left;
+    list-style: none;
+    width: 100%;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
